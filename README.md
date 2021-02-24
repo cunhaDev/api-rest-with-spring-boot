@@ -15,7 +15,7 @@ EXECUTE O PROJETO NO TERMINAL, COM O COMANDO ABAIXO:
 - mvn clean install
 - docker-compose up --build --force-recreate
 - Após executar o comando acima, basta apenas abrir o seguinte endereço e visualizar a execução do projeto:
--  http://localhost:8080/api/versao1/gerencia
+-  http://localhost:8080/
 
 
 PRÉ-REQUISITOS PARA A EXECUÇÃO DO PROJETO
